@@ -12,7 +12,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "GoMoon",
+      title: "#HannahMontana",
       theme: ThemeData(scaffoldBackgroundColor: Color(0xFF3c096c)),
       home: HomePage(),
     );
