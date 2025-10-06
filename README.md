@@ -31,9 +31,9 @@ void main() {  runApp(const App());}
 class App extends StatelessWidget {
 	const App({super.key});
 
-  @override
+	@override
 	Widget build(BuildContext context) {
-	  return MaterialApp(
+		return MaterialApp(
 		  title: "Hannah Montana Tickets",
 		  theme: ThemeData(scaffoldBackgroundColor: Color(0xFF3c096c)),
 		  home: HomePage(),
