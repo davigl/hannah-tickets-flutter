@@ -31,7 +31,8 @@ void main() {  runApp(const App());}
 class App extends StatelessWidget {
 	const App({super.key});
 
-  @override  Widget build(BuildContext context) {
+  @override
+	Widget build(BuildContext context) {
 	  return MaterialApp(
 		  title: "Hannah Montana Tickets",
 		  theme: ThemeData(scaffoldBackgroundColor: Color(0xFF3c096c)),
@@ -54,7 +55,8 @@ class HomePage extends StatelessWidget {
 
 	const HomePage({super.key});
 
-  @override Widget build(BuildContext context) {
+  @override
+	Widget build(BuildContext context) {
 	  _deviceHeight = MediaQuery.of(context).size.height;
 	  _deviceWidth = MediaQuery.of(context).size.width;
 
