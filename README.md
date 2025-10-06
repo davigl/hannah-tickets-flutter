@@ -55,15 +55,15 @@ class HomePage extends StatelessWidget {
 
 	const HomePage({super.key});
 
-  @override
+	@override
 	Widget build(BuildContext context) {
-	  _deviceHeight = MediaQuery.of(context).size.height;
-	  _deviceWidth = MediaQuery.of(context).size.width;
+		_deviceHeight = MediaQuery.of(context).size.height;
+		_deviceWidth = MediaQuery.of(context).size.width;
 
-	  return Scaffold(
-		  body: SafeArea(
-			  child: Container(
-				  child: Stack(children: [...your-widgets-here])
+		return Scaffold(
+			body: SafeArea(
+				child: Container(
+					child: Stack(children: [...your-widgets-here])
 			  )
 		  )
 	  )
@@ -82,8 +82,8 @@ import 'package:flutter/material.dart';
 class CustomButton extends StatelessWidget {
 	const CustomButton({super.key});
 
-  @override Widget build(BuildContext context) {
-	  return Container(...);
+	@override Widget build(BuildContext context) {
+		return Container(...);
 	}
 }
 ```
