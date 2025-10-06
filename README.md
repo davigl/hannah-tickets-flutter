@@ -1,9 +1,5 @@
 # Hannah Montana Tickets
 
-**Repository:**
-
-[https://github.com/davigl/flutter-hannah-montana](https://github.com/davigl/flutter-hannah-montana)
-
 ![image.png](/assets/images/app-preview.png)
 
 **Learned:**
