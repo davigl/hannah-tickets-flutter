@@ -1,6 +1,24 @@
 # Hannah Montana Tickets
 
-![image.png](/assets/images/app-preview.png)
+<p align="center">
+  <img alt="preview" src="./assets/images/app-preview.png" width="200"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Davigl/hannah-tickets-flutter/commits/master">
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Davigl/hannah-tickets-flutter?style=flat-square&color=ff69b4">
+  </a>
+
+  <a href="https://github.com/Davigl/hannah-tickets-flutter/stargazers">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Davigl/hannah-tickets-flutter.svg">
+  </a>
+
+  <a href="https://github.com/Davigl/hannah-tickets-flutter/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Davigl/hannah-tickets-flutter?style=flat-square&color=yellow">
+  </a>
+
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/Davigl/hannah-tickets-flutter?style=flat-square&color=blueviolet">
+</p>
 
 **Learned:**
 
